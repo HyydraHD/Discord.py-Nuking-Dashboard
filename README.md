@@ -32,7 +32,7 @@ You need to install python, that can be done [here](https://www.python.org)
 
 ### Installation
 
-1. Fork the project
+1. Download the project
    
 2. Install Python packages
    ```sh
