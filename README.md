@@ -10,19 +10,12 @@
 
   <h3 align="center">The all in one discord tool</h3>
 
-  <p align="center">
-    DESCRIPTION
-    <br />
-    <a href="https://github.com/logicguy1/The-all-in-one-discord-tool/wiki"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/logicguy1/The-all-in-one-discord-tool/issues">Report Bug</a>
+  
+    
     ·
-    <a href="https://github.com/logicguy1/The-all-in-one-discord-tool/issues">Request Feature</a>
+    
       ·
-    <a href="https://discord.gg/RZuRFB2QYa">Join the discord</a>
-  </p>
-</p>
+    
 
 <details open="open">
   <summary>Table of Contents</summary>
@@ -43,8 +36,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#copyright">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+ 
   </ol>
 </details>
 
